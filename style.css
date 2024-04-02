@@ -1,0 +1,12 @@
+.image-reduite{
+    width: 15%;
+    height: auto;
+    background-color:black;
+    border-radius:50%;
+}
+pre{
+    font-size: 14px;
+}
+p{
+    font-size:18px;
+}
