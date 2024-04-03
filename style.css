@@ -1,12 +1,12 @@
 .image-reduite{
-    width: 15%;
+    width: 50%;
     height: auto;
-    background-color:black;
     border-radius:50%;
 }
 pre{
-    font-size: 14px;
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
 }
 p{
-    font-size:18px;
+    font-size:20px;
 }
