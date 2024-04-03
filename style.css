@@ -1,3 +1,8 @@
+.image-reduite{
+    width: 50;
+    height: auto;
+    border-radius:50%;
+}
 pre{
     font-size: 16px;
     font-family:'Times New Roman', Times, serif;
